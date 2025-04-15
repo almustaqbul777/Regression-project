@@ -20,6 +20,5 @@ The dataset used in this project is from Kaggle:
 ## **Results**  
 - Model 1 Accuracy: 98%  
 - Model 2 Accuracy: 98%  
-
 Feel free to explore the notebook to see the detailed analysis and results:  
 [Project Notebook](https://www.kaggle.com/code/omargowaily/eda-two-regression-models-up-98-acc)
